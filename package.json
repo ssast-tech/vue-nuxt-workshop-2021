@@ -12,5 +12,6 @@
     "vscode-html-languageservice": "^4.0.7",
     "vscode-languageserver-types": "^3.16.0"
   },
-  "name": "vue-nuxt-tutorial"
+  "name": "vue-nuxt-tutorial",
+  "license": "MIT"
 }
